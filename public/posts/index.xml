@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yumemi&#39;s Smol Guides!</title>
+    <link>http://localhost:1313/yumemi-smol-server-guide/posts/</link>
+    <description>Recent content in Posts on Yumemi&#39;s Smol Guides!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yura.aoba@proton.me (Yumemi)</managingEditor>
+    <webMaster>yura.aoba@proton.me (Yumemi)</webMaster>
+    <copyright>© 2026 Yumemi</copyright>
+    <lastBuildDate>Sat, 12 Sep 2026 02:40:21 +0800</lastBuildDate><atom:link href="http://localhost:1313/yumemi-smol-server-guide/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/yumemi-smol-server-guide/posts/my-first-post/</link>
+      <pubDate>Sat, 12 Sep 2026 02:40:21 +0800</pubDate>
+      <author>yura.aoba@proton.me (Yumemi)</author>
+      <guid>http://localhost:1313/yumemi-smol-server-guide/posts/my-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
